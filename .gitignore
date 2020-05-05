@@ -1,19 +1,9 @@
 .history
 .scannerwork
 .idea
-.vscode
 archive
 code-inspection
-database
-dist
-logs
 node_modules
-resources
-build/
-dist
-out
-template
-docs/templates
 
 # Created by https://www.gitignore.io/api/node
 # Edit at https://www.gitignore.io/?templates=node
