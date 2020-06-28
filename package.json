@@ -35,7 +35,7 @@
     "shelljs": "0.8.4"
   },
   "devDependencies": {
-    "pkg": "4.4.8",
+    "pkg": "4.4.9",
     "eslint-config-node-script-js": "1.0.13"
   },
   "repository": {
