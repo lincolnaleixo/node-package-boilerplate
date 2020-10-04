@@ -30,7 +30,7 @@
     "mkdirp": "1.0.4",
     "moment-timezone": "^0.5.31",
     "node-fetch": "^2.6.0",
-    "spidering": "^0.0.28",
+    "spidering": "^0.0.40",
     "rimraf": "^3.0.2",
     "shelljs": "0.8.4"
   },
